@@ -19,7 +19,7 @@ Najstarszą pocztówkę z pozdrowieniem (**GRUSS AUS BLUMENAU**, Ostpr.) przedst
     caption='Rys. 12.1. "Pozdrowienia z Kwietniewa" z 1900 roku'
 %}
 
-Wysłana ją Emma M. z Blumenau dnia 28 stycznia 1900 roku do Gertudy Strassenburg w Graudenz (Grudziądz), gdzie została ostemplowana już następnego dnia (Rys. 12.2).
+Wysłała ją Emma M. z Blumenau dnia 28 stycznia 1900 roku do Gertudy Strassenburg w *Graudenz* (Grudziądz), gdzie została ostemplowana już następnego dnia (Rys. 12.2).
 
 {% include figure
     image_path='/assets/images/widokowki/12_2.jpg'
@@ -59,7 +59,7 @@ Kolejną pocztówkę wyłowioną z ofert na e-bay'u jest kartka z roku 1908 (Rys
 
 Na pierwszym planie, w XIX-wiecznym budynku znajdowała się poczta; na końcu ściany frontowej widać szyld i wystającą ze ściany skrzynkę na listy. Kościół, także z tej strony obrośnięty drzewami (niewiele z nich przetrwało do naszych czasów), jest oświetlony południowym słońcem. Najwyraźniej widać fasadę klatki schodowej na boczną emporę, która kiedyś otaczała wnętrze nawy kościelnej.
 
-Tę pocztówkę wysłała z Elbląga Anna Salewsky z Dymnika do panienki Gesiene Stolle w Wartburgu Rys.12.6).
+Tę pocztówkę wysłała z Elbląga Anna Salewsky z Dymnika do panienki Gesiene Stolle w Wartburgu (Rys.12.6).
 
 {% include figure
     image_path='/assets/images/widokowki/12_6.jpg'
