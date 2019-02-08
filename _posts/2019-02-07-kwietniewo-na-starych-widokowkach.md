@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: single
 title: "Kwietniewo na starych widokówkach"
-sub_title: Blumenau auf alten Ansichtskarten
-image: ./assets/images/widokowki/cover.jpg
+excerpt: Blumenau auf alten Ansichtskarten
+header:
+    overlay_image: ./assets/images/widokowki/cover.jpg
+    overlay_color: "#333"
+    overlay_filter: 0.5
 ---
 
 W czasach niemieckich Kwietniewo, a raczej *Blumenau*, pojawiało się wielokrotnie na widokówkach wydawanych głównie przez wydawnictwa w Elblągu. Ostatnio można je znaleźć w ofercie kilku antykwariatów niemieckich i zamówić na e-Bayu - chociaż nie zawsze docierają do Polski; giną na poczcie albo nie są wcale wysyłane przez nieuczciwych antykwariuszy.
@@ -10,8 +13,11 @@ W czasach niemieckich Kwietniewo, a raczej *Blumenau*, pojawiało się wielokrot
 
 Najstarszą pocztówkę z pozdrowieniem (**GRUSS AUS BLUMENAU**, Ostpr.) przedstawia Rysunek 12.1. Została ona wykonana techniką litograficzną przez Wydawnictwo W.A. Zipp w Elblągu jeszcze w XIX wieku.
 
-![Gruss aus Blumenau](/assets/images/widokowki/12_1.jpg)
-*Rys. 12.1. " Pozdrowienia z Kwietniewa" z 1900 roku*
+{% include figure
+    image_path="/assets/images/widokowki/12_1.jpg"
+    alt="Gruss aus Blumenau"
+    caption="Rys. 12.1. \"Pozdrowienia z Kwietniewa\" z 1900 roku"
+%}
 
 Wysłana ją Emma M. z Blumenau dnia 28 stycznia 1900 roku do Gertudy Strassenburg w Graudenz (Grudziądz), gdzie została ostemplowana już następnego dnia (Rys. 12.2).
 
@@ -91,8 +97,11 @@ Kompozycję graficzną pocztówki zamyka kościół widoczny w zielonej szczelin
 
 Na czarno-białym zdjęciu na wieży tuż pod izbicą można dopatrzyć się okrągłej tarczy zegara, utrąconej przez radzieckich żołnierzy z sanbatu (batalionu sanitarnego), stacjonującego w pozostałych willach Kwietniewa w latach 1945-46. Zdekompletowany mechanizm zegara wciąż znajduje się we wnętrzu wieży. Zresztą, ci sami czerwonoarmiejcy nie oszczędzili złotej kuli na szczycie wieży, popisując się kilkoma celnymi strzałamidziurami do jej wnętrza (Rys. 12.15).
 
-![Podziurawiona kulą kapsuła czasu](/assets/images/widokowki/12_15.jpg)
-*Rys. 12.15. Szczyt wieży kościoła z podziurawioną kulą - kapsułą czasu (została ona otwarta podczas naprawy dachu wieży w 2000 roku, a jej artefakty zastąpiono współczesnymi znakami czasu)*
+{% include figure
+    image_path="/assets/images/widokowki/12_15.jpg"
+    alt="Podziurawiona kulą kapsuła czasu"
+    caption='Rys. 12.15. Szczyt wieży kościoła z podziurawioną kulą - kapsułą czasu (została ona otwarta podczas naprawy dachu wieży w 2000 roku, a jej artefakty zastąpiono współczesnymi znakami czasu)'
+%}
 
 W zbiorach biblioteki miejskiej w Pasłęku znajdują się także widokówki z obrazkami z głównej ulicy, między innymi z domem podcieniowym Goldmanna/Hausteina i nowej poczty (Rys. 12.16).
 
