@@ -27,9 +27,9 @@ Wysłana ją Emma M. z Blumenau dnia 28 stycznia 1900 roku do Gertudy Strassenbu
     caption='Rys. 12.2. Strona adresowa kartki pocztowej z BLUMENAU (Ostpr.).'
 %}
 
-W modernistycznie ukwieconej kompozycji pocztówka przedstawia pięć widoków Kwietniewa z przełomu wieków XIX i XX. Widok ogólny z nasypu kolejowego jest trochę symboliczny, rysowany bardziej z pomięci niż z pleneru, bowiem wieża kościoła jest umieszczona asymetrycznie względem głównej osi kościoła. Wyraźnie jest widoczna wieża i wschodnia ściana pałacu przy kościele (Hof Abraham) oraz dawne rozwidlenie dróg na wysokości starej kuźni (późniejszej stacji ARAL), czyli szosy wiodącej w górę do stacji kolejowej i nie istniejącej już nieutwardzonej drogi wzdłuż toru kierującej się pod wiadukt kolejowy i dalej na Powuden (Powodowo). Stary pałac jest także widoczny od strony zachodniej, tej bardziej ubogiej, na drugim dodanym obrazku. Ta strona została dobudowana nieco później niż pierwotna strona wschodnia budynku, która wraz z wieżą miała styl junkierskiej rezydencji, jakich wiele w Prusach Wschodnich (np. Stare Dolno - Alt Döllstaedt).
+W modernistycznie ukwieconej kompozycji pocztówka przedstawia pięć widoków Kwietniewa z przełomu wieków XIX i XX. Widok ogólny z nasypu kolejowego jest trochę symboliczny, rysowany bardziej z pomięci niż z pleneru, bowiem wieża kościoła jest umieszczona asymetrycznie względem głównej osi kościoła. Wyraźnie jest widoczna wieża i wschodnia ściana pałacu przy kościele (*Hof Abraham*) oraz dawne rozwidlenie dróg na wysokości starej kuźni (późniejszej stacji ARAL), czyli szosy wiodącej w górę do stacji kolejowej i nie istniejącej już nieutwardzonej drogi wzdłuż toru kierującej się pod wiadukt kolejowy i dalej na *Powuden* (Powodowo). Stary pałac jest także widoczny od strony zachodniej, tej bardziej ubogiej, na drugim dodanym obrazku. Ta strona została dobudowana nieco później niż pierwotna strona wschodnia budynku, która wraz z wieżą miała styl junkierskiej rezydencji, jakich wiele w Prusach Wschodnich (np. Stare Dolno - *Alt Döllstaedt*).
 
-Dość dokładny jest obrazek o kolistym kształcie z gospodą Fr. Zimmermanna (później Emila Kalliena) oraz urzędem pocztowym (wg opisu?). Charakterystyczna budowla gospody została bardzo zniekształcona w latach 70-tych po jej adaptacji na cele szkolne. Na trzecim obrazku jest widoczna sylwetka drewnianej wieży i dachu kościoła, przysłoniętego potężnymi lipami. Natomiast poniżej widzimy szachulcową konstrukcję domu Bonhardtów (Hof Bohnhardt), jednej z bogatszych rodzin w Blumenau. Po wojnie to gospodarstwo objął Michał Bryk z rodziną i dom ten już w latach 60-tych XX w. rozebrał, budując jako pierwszy dużo skromniejszą siedzibę obok tej potężnej rezydencji, bliżej stawu.
+Dość dokładny jest obrazek o kolistym kształcie z gospodą Fr. Zimmermanna (później Emila Kalliena) oraz urzędem pocztowym (wg opisu?). Charakterystyczna budowla gospody została bardzo zniekształcona w latach 70-tych po jej adaptacji na cele szkolne. Na trzecim obrazku jest widoczna sylwetka drewnianej wieży i dachu kościoła, przysłoniętego potężnymi lipami. Natomiast poniżej widzimy szachulcową konstrukcję domu Bonhardtów (*Hof Bohnhardt*), jednej z bogatszych rodzin w Blumenau. Po wojnie to gospodarstwo objął Michał Bryk z rodziną i dom ten już w latach 60-tych XX w. rozebrał, budując jako pierwszy dużo skromniejszą siedzibę obok tej potężnej rezydencji, bliżej stawu.
 
 Następną chronologicznie wydaną pocztówką, jest pocztówka z 1901 roku (Rys. 12.3). Widzimy na niej już fotografię stawu w centrum wsi na tle sylwetki wieży kościelnej. Jest to scenka rodzajowa z czterema postaciami, z których dwie obserwują co robi fotograf.
 
@@ -41,7 +41,7 @@ Następną chronologicznie wydaną pocztówką, jest pocztówka z 1901 roku (Rys
 
 Zwraca uwagę niski poziom wody w ocembrowanym stawie; staw miał naturalny odpływ drenny do rowu przy drodze na Św. Gaj oraz widoczne w lewym rogu ujęcie na potrzeby sąsiedniego gospodarstwa Bohnhardtów.
 
-Kartkę tę wysłała w niedzielę 17 marca 1901 roku z Blumenau Selma Preuss do Henrietty Schwartz w Könitz (Chojnice) w tzw. Prusach Zachodnich, gdzie odnotowano jej przybycie także już następnego dnia! (Rys. 12.4)
+Kartkę tę wysłała w niedzielę 17 marca 1901 roku z Blumenau Selma Preuss do Henrietty Schwartz w *Könitz* (Chojnice) w tzw. Prusach Zachodnich, gdzie odnotowano jej przybycie także już następnego dnia! (Rys. 12.4)
 
 {% include figure
     image_path='/assets/images/widokowki/12_4.jpg'
@@ -49,7 +49,7 @@ Kartkę tę wysłała w niedzielę 17 marca 1901 roku z Blumenau Selma Preuss do
     caption='Rys. 12.4. Awers kartki z 1901 roku.'
 %}
 
-Kolejną pocztówkę wyłowioną z ofert na e-bay'u jest kartka z roku 1908 (Rys. 12.5).Mamy na niej dwie wyraźne fotografie z tego okresu: poczty i plebanii wraz ze szkołą i pozującymi do fotografii uczniami i uczennicami w białych fartuszkach, oraz - a jakże kościół od strony południowo-wschodniej. Nauczaniem na poziomie podstawowym w cesarskich Niemczech zajmowały się gminy wyznaniowe; w Kgl. Blumenau była to ewangelicka Kirchspiel Königsblumenau prowadząca trzyklasową szkołę powszechną w przybudowanych do plebanii dwóch salach.
+Kolejną pocztówkę wyłowioną z ofert na e-bay'u jest kartka z roku 1908 (Rys. 12.5).Mamy na niej dwie wyraźne fotografie z tego okresu: poczty i plebanii wraz ze szkołą i pozującymi do fotografii uczniami i uczennicami w białych fartuszkach, oraz - a jakże kościół od strony południowo-wschodniej. Nauczaniem na poziomie podstawowym w cesarskich Niemczech zajmowały się gminy wyznaniowe; w *Kgl. Blumenau* była to ewangelicka *Kirchspiel Königsblumenau* prowadząca trzyklasową szkołę powszechną w przybudowanych do plebanii dwóch salach.
 
 {% include figure
     image_path='/assets/images/widokowki/12_5.jpg'
@@ -67,7 +67,7 @@ Tę pocztówkę wysłała z Elbląga Anna Salewsky z Dymnika do panienki Gesiene
     caption='Rys. 12.6. Adresat i nadawca pocztówki z 1908 roku'
 %}
 
-Nową szkołę w obecnym miejscu wybudowano także na gruntach kościelnych i oddano do użytku w roku 1911, ale już jako trzyklasową szkołę ludową (Volksschule). Widzimy ją na pocztówkach wydawanych jeszcze przed I wojną światową w manierystycznym stylu z ornamentyką kwiatową (Rys. 12.7). Zdjęcia dla tej pocztówki wykonano zimą, co pozwala przyjrzeć się sylwetce drewnianej wieży poprzez konary osłaniających ją latem drzew. Na kratownicy na wschodniej ścianie nowej szkoły nie widać jeszcze pędów winorośli. Niewielkie są również sadzonki młodych jesionów zasadzonych przy wiejskiej przecznicy między szosą a wiejską uliczką. Razem ze szkołą wybudowano od strony zachodniej schronisko młodzieżowe - jako jej integralna część ze wspólnym wejściem.
+Nową szkołę w obecnym miejscu wybudowano także na gruntach kościelnych i oddano do użytku w roku 1911, ale już jako trzyklasową szkołę ludową (*Volksschule*). Widzimy ją na pocztówkach wydawanych jeszcze przed I wojną światową w manierystycznym stylu z ornamentyką kwiatową (Rys. 12.7). Zdjęcia dla tej pocztówki wykonano zimą, co pozwala przyjrzeć się sylwetce drewnianej wieży poprzez konary osłaniających ją latem drzew. Na kratownicy na wschodniej ścianie nowej szkoły nie widać jeszcze pędów winorośli. Niewielkie są również sadzonki młodych jesionów zasadzonych przy wiejskiej przecznicy między szosą a wiejską uliczką. Razem ze szkołą wybudowano od strony zachodniej schronisko młodzieżowe - jako jej integralna część ze wspólnym wejściem.
 
 {% include figure
     image_path='/assets/images/widokowki/12_7.jpg'
@@ -75,7 +75,7 @@ Nową szkołę w obecnym miejscu wybudowano także na gruntach kościelnych i od
     caption='Rys. 12.7. Zimowe widoki kościoła i szkoły'
 %}
 
-Egzemplarz tej kartki został wysłany z Kwietniewa w poniedziałek 11 sierpnia 1913 roku do wspomnianej już Henrietty Schwartz, ale tym razem do Kościerzyny (Berent) przez Ilse Wenzel, mieszkającej na ostatniej kolonii pod Krupinem (Rys. 12.8).
+Egzemplarz tej kartki został wysłany z Kwietniewa w poniedziałek 11 sierpnia 1913 roku do wspomnianej już Henrietty Schwartz, ale tym razem do Kościerzyny (*Berent*) przez Ilse Wenzel, mieszkającej na ostatniej kolonii pod Krupinem (Rys. 12.8).
 
 {% include figure
     image_path='/assets/images/widokowki/12_8.jpg'
@@ -97,9 +97,9 @@ Nowy budynek szkoły pojawia się już na każdej późniejszej pocztówce z Blu
     caption='Rys. 12.9b. Rewers zaginionej pocztówki z Drezna (napisy bardzo nieczytelne)'
 %}
 
-W okresie międzywojennym pojawiło się wiele pocztówek z pozdrowieniami lub bez nich z Blumenau (w okresie Republiki Weimarskiej) lub z Königsblumenau w okresie późniejszym do 1945 roku (Königs-Blumenau - Feststellung der Schreibweise nach 1931).
+W okresie międzywojennym pojawiło się wiele pocztówek z pozdrowieniami lub bez nich z Blumenau (w okresie Republiki Weimarskiej) lub z *Königsblumenau* w okresie późniejszym do 1945 roku (*Königs-Blumenau - Feststellung der Schreibweise nach 1931*).
 
-Rysunek 12.10 przedstawia reprodukcję pocztówki jeszcze z pierwszego okresu z nazwą pojedynczą: Blumenau, gdzie oprócz widoku kościoła od strony południowej mamy szersze ujęcia gospody Kalliena z starą chatą po lewej stronie i szkoły, oraz willę Horsta Grunwaldta (Hof Grunwaldt - 149 ha).
+Rysunek 12.10 przedstawia reprodukcję pocztówki jeszcze z pierwszego okresu z nazwą pojedynczą: Blumenau, gdzie oprócz widoku kościoła od strony południowej mamy szersze ujęcia gospody Kalliena z starą chatą po lewej stronie i szkoły, oraz willę Horsta Grunwaldta (*Hof Grunwaldt* - 149 ha).
 
 {% include figure
     image_path='/assets/images/widokowki/12_10.jpg'
@@ -107,7 +107,7 @@ Rysunek 12.10 przedstawia reprodukcję pocztówki jeszcze z pierwszego okresu z 
     caption='Rys. 12.10. Kwietniewo na widokówce sprzed 1933 roku'
 %}
 
-Na widokówce wydanej po 1933 roku, znajdującej się w zasobach Biblioteki Publicznej w Pasłęku, mamy już szerszą nazwę wsi: Königsblumenau (Rys. 12.11). Taka pocztówka znajdowała się w domowych babcinych zbiorach zdjęć do lat 60-tych, kiedy to jedno z młodszych rodzeństwa rozczłonkowało ją na części, aby następnie zagubić.
+Na widokówce wydanej po 1933 roku, znajdującej się w zasobach Biblioteki Publicznej w Pasłęku, mamy już szerszą nazwę wsi: *Königsblumenau* (Rys. 12.11). Taka pocztówka znajdowała się w domowych babcinych zbiorach zdjęć do lat 60-tych, kiedy to jedno z młodszych rodzeństwa rozczłonkowało ją na części, aby następnie zagubić.
 
 {% include figure
     image_path='/assets/images/widokowki/12_11.jpg'
@@ -115,9 +115,9 @@ Na widokówce wydanej po 1933 roku, znajdującej się w zasobach Biblioteki Publ
     caption='Rys. 12.11. Widoki przedwojennego Kwietniewa na kartce pocztowej wydanej po 1933 roku'
 %}
 
-Na kartce na pierwszym zdjęciu widzimy scenkę rodzajową przed głównym wejściem do gospody Kalliena, za nią wystaje ściana frontowa sali widowiskowej (festliche Saal). Sala ta była ze sceną i balkonem na orkiestrę, czynna jeszcze do 1956 roku; w niej odbywały się uroczystości wiejskie i szkolne, zanim nie zaczął przeciekać dach i zapadać drewniana podłoga. W kompletną ruinę popadła w latach 60-tych - pozostała po niej część, która stanowiła scenę (przerobiona na kurnik), oraz solidne betonowe nadproże.
+Na kartce na pierwszym zdjęciu widzimy scenkę rodzajową przed głównym wejściem do gospody Kalliena, za nią wystaje ściana frontowa sali widowiskowej (*festliche Saal*). Sala ta była ze sceną i balkonem na orkiestrę, czynna jeszcze do 1956 roku; w niej odbywały się uroczystości wiejskie i szkolne, zanim nie zaczął przeciekać dach i zapadać drewniana podłoga. W kompletną ruinę popadła w latach 60-tych - pozostała po niej część, która stanowiła scenę (przerobiona na kurnik), oraz solidne betonowe nadproże.
 
- Na zdjęciu poniżej po lewej stronie mamy widok ulicy prowadzącej do Jankowa (Jankenstrasse) z dwiema starymi chatami z XVIII wieku o konstrukcji szachulcowej ze ścianami wypełnionymi trzciną i gliną oraz tzw. willą Paula Fähndricha, ostatniego sołtysa Königsblumenau (Hof Fähndrich), gospodarza na 141 hektarach. Sołtys wraz żoną pozuje do fotografii na jednej z widokówek (Rys. 12.12).
+ Na zdjęciu poniżej po lewej stronie mamy widok ulicy prowadzącej do Jankowa (Jankenstrasse) z dwiema starymi chatami z XVIII wieku o konstrukcji szachulcowej ze ścianami wypełnionymi trzciną i gliną oraz tzw. willą Paula Fähndricha, ostatniego sołtysa Königsblumenau (*Hof Fähndrich*), gospodarza na 141 hektarach. Sołtys wraz żoną pozuje do fotografii na jednej z widokówek (Rys. 12.12).
 
 {% include figure
     image_path='/assets/images/widokowki/12_12.jpg'
@@ -133,7 +133,7 @@ Kompozycję graficzną pocztówki zamyka kościół widoczny w zielonej szczelin
     caption='Rys. 12.13. Współczesny widok kościoła w ujęciu prawie jak na widokówce z Rysunku 12.11.'
 %}
 
-Na czarno-białym zdjęciu na wieży tuż pod izbicą można dopatrzyć się okrągłej tarczy zegara, utrąconej przez radzieckich żołnierzy z sanbatu (batalionu sanitarnego), stacjonującego w pozostałych willach Kwietniewa w latach 1945-46. Zdekompletowany mechanizm zegara wciąż znajduje się we wnętrzu wieży. Zresztą, ci sami czerwonoarmiejcy nie oszczędzili złotej kuli na szczycie wieży, popisując się kilkoma celnymi strzałamidziurami do jej wnętrza (Rys. 12.15).
+Na czarno-białym zdjęciu na wieży tuż pod izbicą można dopatrzyć się okrągłej tarczy zegara, utrąconej przez radzieckich żołnierzy z *sanbatu* (batalionu sanitarnego), stacjonującego w pozostałych willach Kwietniewa w latach 1945-46. Zdekompletowany mechanizm zegara wciąż znajduje się we wnętrzu wieży. Zresztą, ci sami *czerwonoarmiejcy* nie oszczędzili złotej kuli na szczycie wieży, popisując się kilkoma celnymi strzałamidziurami do jej wnętrza (Rys. 12.15).
 
 {% include figure
     image_path="/assets/images/widokowki/12_15.jpg"
