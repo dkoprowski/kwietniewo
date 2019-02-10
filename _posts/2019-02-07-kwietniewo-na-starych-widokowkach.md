@@ -8,6 +8,8 @@ header:
     overlay_filter: 0.5
 ---
 
+*Rozdział 12 monografii "Moje Kwietniewo" – Jan Koprowski.*
+
 W czasach niemieckich Kwietniewo, a raczej *Blumenau*, pojawiało się wielokrotnie na widokówkach wydawanych głównie przez wydawnictwa w Elblągu. Ostatnio można je znaleźć w ofercie kilku antykwariatów niemieckich i zamówić na e-Bayu - chociaż nie zawsze docierają do Polski; giną na poczcie albo nie są wcale wysyłane przez nieuczciwych antykwariuszy.
 
 
