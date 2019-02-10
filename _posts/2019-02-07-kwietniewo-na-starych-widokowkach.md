@@ -73,7 +73,7 @@ Nową szkołę w obecnym miejscu wybudowano także na gruntach kościelnych i od
     image_path='/assets/images/widokowki/12_7.jpg'
     alt='Zimowe widoki kościoła i szkoły'
     caption='Rys. 12.7. Zimowe widoki kościoła i szkoły'
-%}
+%}{: .align-left style="width: 50%;"}
 
 Egzemplarz tej kartki został wysłany z Kwietniewa w poniedziałek 11 sierpnia 1913 roku do wspomnianej już Henrietty Schwartz, ale tym razem do Kościerzyny (*Berent*) przez Ilse Wenzel, mieszkającej na ostatniej kolonii pod Krupinem (Rys. 12.8).
 
@@ -125,21 +125,21 @@ Na kartce na pierwszym zdjęciu widzimy scenkę rodzajową przed głównym wejś
     caption='Rys. 12.12. Dom sołtysa Paula Fähndricha w stylu włoskiej willi'
 %}
 
-Kompozycję graficzną pocztówki zamyka kościół widoczny w zielonej szczelinie za zamkniętymi wrotami cmentarza. Siedemdziesiąt lat później mamy podobny obraz kościoła (Rys. 12.13).
-
 {% include figure
     image_path='/assets/images/widokowki/12_13.jpg'
     alt='Współczesny widok kościoła'
     caption='Rys. 12.13. Współczesny widok kościoła w ujęciu prawie jak na widokówce z Rysunku 12.11.'
-%}
-
-Na czarno-białym zdjęciu na wieży tuż pod izbicą można dopatrzyć się okrągłej tarczy zegara, utrąconej przez radzieckich żołnierzy z *sanbatu* (batalionu sanitarnego), stacjonującego w pozostałych willach Kwietniewa w latach 1945-46. Zdekompletowany mechanizm zegara wciąż znajduje się we wnętrzu wieży. Zresztą, ci sami *czerwonoarmiejcy* nie oszczędzili złotej kuli na szczycie wieży, popisując się kilkoma celnymi strzałami-dziurami do jej wnętrza (Rys. 12.15).
+%}{: .align-left style="width: 50%; margin-top: 0;"}
+Kompozycję graficzną pocztówki zamyka kościół widoczny w zielonej szczelinie za zamkniętymi wrotami cmentarza. Siedemdziesiąt lat później mamy podobny obraz kościoła (Rys. 12.13).
 
 {% include figure
     image_path="/assets/images/widokowki/12_15.jpg"
     alt="Podziurawiona kulą kapsuła czasu"
     caption='Rys. 12.15. Szczyt wieży kościoła z podziurawioną kulą - kapsułą czasu (została ona otwarta podczas naprawy dachu wieży w 2000 roku, a jej artefakty zastąpiono współczesnymi znakami czasu)'
-%}
+%}{: .align-left style="width: 50%;"}
+
+Na czarno-białym zdjęciu na wieży tuż pod izbicą można dopatrzyć się okrągłej tarczy zegara, utrąconej przez radzieckich żołnierzy z *sanbatu* (batalionu sanitarnego), stacjonującego w pozostałych willach Kwietniewa w latach 1945-46. Zdekompletowany mechanizm zegara wciąż znajduje się we wnętrzu wieży. Zresztą, ci sami *czerwonoarmiejcy* nie oszczędzili złotej kuli na szczycie wieży, popisując się kilkoma celnymi strzałami-dziurami do jej wnętrza (Rys. 12.15).
+
 
 W zbiorach biblioteki miejskiej w Pasłęku znajdują się także widokówki z obrazkami z głównej ulicy, między innymi z domem podcieniowym Goldmanna/Hausteina i nowej poczty (Rys. 12.16).
 
@@ -147,7 +147,7 @@ W zbiorach biblioteki miejskiej w Pasłęku znajdują się także widokówki z o
     image_path='/assets/images/widokowki/12_16.jpg'
     alt='Dom podcieniowy Goldmanana i poczta za pomnikiem poległych'
     caption='Rys. 12.16. Dom podcieniowy Goldmanana i poczta za pomnikiem poległych w IWŚ na pocztówce z lat 30-tych XX w'
-%}
+%}{: style="width: 100%;"}
 
 Po wojnie pierwsze pocztówki Kwietniewa pojawiły się pod koniec lat 80-tych, kiedy to gmina w Rychlikach próbowała reklamować walory turystyczne gminy (Rys.12.17).
 
