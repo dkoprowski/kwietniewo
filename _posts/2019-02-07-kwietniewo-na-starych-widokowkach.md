@@ -31,7 +31,7 @@ W modernistycznie ukwieconej kompozycji pocztówka przedstawia pięć widoków K
 
 Dość dokładny jest obrazek o kolistym kształcie z gospodą Fr. Zimmermanna (później Emila Kalliena) oraz urzędem pocztowym (wg opisu?). Charakterystyczna budowla gospody została bardzo zniekształcona w latach 70-tych po jej adaptacji na cele szkolne. Na trzecim obrazku jest widoczna sylwetka drewnianej wieży i dachu kościoła, przysłoniętego potężnymi lipami. Natomiast poniżej widzimy szachulcową konstrukcję domu Bonhardtów (*Hof Bohnhardt*), jednej z bogatszych rodzin w Blumenau. Po wojnie to gospodarstwo objął Michał Bryk z rodziną i dom ten już w latach 60-tych XX w. rozebrał, budując jako pierwszy dużo skromniejszą siedzibę obok tej potężnej rezydencji, bliżej stawu.
 
-Następną chronologicznie wydaną pocztówką, jest pocztówka z 1901 roku (Rys. 12.3). Widzimy na niej już fotografię stawu w centrum wsi na tle sylwetki wieży kościelnej. Jest to scenka rodzajowa z czterema postaciami, z których dwie obserwują co robi fotograf.
+Następną chronologicznie wydaną pocztówką, jest pocztówka z 1901 roku (Rys. 12.3). Widzimy na niej już fotografię stawu w centrum wsi na tle sylwetki wieży kościelnej. Jest to scenka rodzajowa z czterema postaciami, z których dwie obserwują: cóż wyczynia ten fotograf.
 
 {% include figure
     image_path='/assets/images/widokowki/12_3.jpg'
@@ -49,7 +49,7 @@ Kartkę tę wysłała w niedzielę 17 marca 1901 roku z Blumenau Selma Preuss do
     caption='Rys. 12.4. Awers kartki z 1901 roku.'
 %}
 
-Kolejną pocztówkę wyłowioną z ofert na e-bay'u jest kartka z roku 1908 (Rys. 12.5).Mamy na niej dwie wyraźne fotografie z tego okresu: poczty i plebanii wraz ze szkołą i pozującymi do fotografii uczniami i uczennicami w białych fartuszkach, oraz - a jakże kościół od strony południowo-wschodniej. Nauczaniem na poziomie podstawowym w cesarskich Niemczech zajmowały się gminy wyznaniowe; w *Kgl. Blumenau* była to ewangelicka *Kirchspiel Königsblumenau* prowadząca trzyklasową szkołę powszechną w przybudowanych do plebanii dwóch salach.
+Kolejną pocztówkę wyłowioną z ofert na e-bay'u jest kartka z roku 1908 (Rys. 12.5).Mamy na niej dwie wyraźne fotografie z tego okresu: poczty i plebanii wraz ze szkołą i pozującymi do fotografii uczniami i uczennicami w białych fartuszkach, oraz - a jakże - kościół od strony południowo-wschodniej. Nauczaniem na poziomie podstawowym w cesarskich Niemczech zajmowały się gminy wyznaniowe; w *Kgl. Blumenau* była to ewangelicka *Kirchspiel Königsblumenau* prowadząca trzyklasową szkołę powszechną w przybudowanych do plebanii dwóch salach.
 
 {% include figure
     image_path='/assets/images/widokowki/12_5.jpg'
@@ -133,7 +133,7 @@ Kompozycję graficzną pocztówki zamyka kościół widoczny w zielonej szczelin
     caption='Rys. 12.13. Współczesny widok kościoła w ujęciu prawie jak na widokówce z Rysunku 12.11.'
 %}
 
-Na czarno-białym zdjęciu na wieży tuż pod izbicą można dopatrzyć się okrągłej tarczy zegara, utrąconej przez radzieckich żołnierzy z *sanbatu* (batalionu sanitarnego), stacjonującego w pozostałych willach Kwietniewa w latach 1945-46. Zdekompletowany mechanizm zegara wciąż znajduje się we wnętrzu wieży. Zresztą, ci sami *czerwonoarmiejcy* nie oszczędzili złotej kuli na szczycie wieży, popisując się kilkoma celnymi strzałamidziurami do jej wnętrza (Rys. 12.15).
+Na czarno-białym zdjęciu na wieży tuż pod izbicą można dopatrzyć się okrągłej tarczy zegara, utrąconej przez radzieckich żołnierzy z *sanbatu* (batalionu sanitarnego), stacjonującego w pozostałych willach Kwietniewa w latach 1945-46. Zdekompletowany mechanizm zegara wciąż znajduje się we wnętrzu wieży. Zresztą, ci sami *czerwonoarmiejcy* nie oszczędzili złotej kuli na szczycie wieży, popisując się kilkoma celnymi strzałami-dziurami do jej wnętrza (Rys. 12.15).
 
 {% include figure
     image_path="/assets/images/widokowki/12_15.jpg"
