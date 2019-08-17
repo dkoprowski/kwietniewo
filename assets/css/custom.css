@@ -1,0 +1,13 @@
+.imagesContainer {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.imagesContainer img{
+    width: auto;
+}
+
+figure img {
+    margin: 4px;
+}
